@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry key="..\:/team10am/team10am/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+=======
+        <entry key="..\:/team10am/team10am/app/src/main/res/layout/activity_main.xml" value="0.2" />
+>>>>>>> 894d3027cabd6e819c1466afe1dd09eff7f99ee0
 =======
         <entry key="..\:/Team10am/team10am/app/src/main/res/layout/activity_main.xml" value="0.17135416666666667" />
         <entry key="..\:/Team10am/team10am/app/src/main/res/layout/activity_navneetsheoran.xml" value="0.17135416666666667" />
@@ -13,7 +17,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

@@ -12,7 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SmallCompent">
         <activity
+<<<<<<< HEAD
             android:name=".MainActivity2"
+=======
+            android:name=".Navneetsheoran"
+>>>>>>> 529df2f658cf9aed2743128dab782554a9079362
             android:exported="false" />
         <activity
             android:name=".MainActivity"
